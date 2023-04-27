@@ -1,0 +1,21 @@
+# ninja log v5
+0	38	1682589355314589584	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	7e36f1231b2981ea
+1578	1625	1682589356902451628	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	ca03b7c300d6d730
+1578	1625	1682589356902451628	/Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	ca03b7c300d6d730
+39	1530	1682589356807522189	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	50311ac81cfac1d4
+1777	1821	1682589357098169487	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	844481ad962589ba
+1531	1578	1682589356856193086	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	f71f7e6561a4197a
+1531	1578	1682589356856193086	/Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	f71f7e6561a4197a
+1777	1821	1682589357098169487	/Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	844481ad962589ba
+1625	1666	1682589356943466980	/Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	7900e5a0867bc52
+39	1530	1682589356807522189	/Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	50311ac81cfac1d4
+1625	1666	1682589356943466980	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	7900e5a0867bc52
+0	38	1682589355314589584	/Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	7e36f1231b2981ea
+1666	1710	1682589356987653399	/Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	d726add516a70179
+1710	1748	1682589357026070994	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	7fb1cb66a975a289
+1710	1748	1682589357026070994	/Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	7fb1cb66a975a289
+1666	1710	1682589356987653399	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	d726add516a70179
+1748	1776	1682589357054810655	/Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d0b88865ead4cc07
+1748	1776	1682589357054810655	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	d0b88865ead4cc07
+1777	1821	1682589357098169487	/Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	844481ad962589ba
+1777	1821	1682589357098169487	CMakeFiles/googletest-populate-complete	844481ad962589ba

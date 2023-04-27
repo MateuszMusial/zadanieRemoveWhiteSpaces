@@ -1,0 +1,7 @@
+add_test([=[Tests.Sanity]=]  /Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/zadanieStaz3-ut [==[--gtest_filter=Tests.Sanity]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[Tests.Sanity]=]  PROPERTIES WORKING_DIRECTORY /Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[Tests.isStringAsExpected]=]  /Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/zadanieStaz3-ut [==[--gtest_filter=Tests.isStringAsExpected]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[Tests.isStringAsExpected]=]  PROPERTIES WORKING_DIRECTORY /Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[Tests.functionRemoveWhiteSpacesNotThrowException]=]  /Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/zadanieStaz3-ut [==[--gtest_filter=Tests.functionRemoveWhiteSpacesNotThrowException]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[Tests.functionRemoveWhiteSpacesNotThrowException]=]  PROPERTIES WORKING_DIRECTORY /Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  zadanieStaz3-ut_TESTS Tests.Sanity Tests.isStringAsExpected Tests.functionRemoveWhiteSpacesNotThrowException)

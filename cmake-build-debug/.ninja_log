@@ -1,0 +1,23 @@
+# ninja log v5
+0	6804	1682589862963794714	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	b0148fb85d71268f
+2	2043	1682589858236889033	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	f82e885d331b5f79
+6806	7016	1682589863225136000	lib/libgtest.a	21fa1f62a564646f
+7017	7072	1682589863279542000	lib/libgtest_main.a	1a22b72292c1559
+2600	3139	1682597202284938488	/Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/zadanieStaz3-ut[1]_tests.cmake	46797f5dbdd6db0d
+18	5805	1682590669028835919	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	a5c7b2095ff4980e
+13	837	1682596811990274057	CMakeFiles/zadanieStaz3-ut.dir/functions.cpp.o	5089c885a2c2226a
+2600	3139	1682597202284938488	zadanieStaz3-ut	46797f5dbdd6db0d
+2600	3139	1682597202284938488	zadanieStaz3-ut[1]_tests.cmake	46797f5dbdd6db0d
+8	2104	1682596480368192489	CMakeFiles/zadanieStaz3-ut.dir/main.cpp.o	75d299ef7a834815
+17	2600	1682597201728492431	CMakeFiles/zadanieStaz3-ut.dir/tests.cpp.o	7cb68868be4764f4
+5914	5963	1682590669215100000	lib/libgmock_main.a	3531db8b0538cc87
+5806	5914	1682590669166629000	lib/libgmock.a	93400e096a72137f
+22	3859	1682590667082936587	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	b6f37c29c2c32cc2
+3	1149	1682597925630111013	CMakeFiles/zadanieStaz3.dir/functions.cpp.o	e1ddbb71671d86df
+1	1432	1682597925917497066	CMakeFiles/zadanieStaz3.dir/main.cpp.o	a5f2774c3dae40e3
+1433	1542	1682597926030615007	zadanieStaz3	2ce56f5467d3e290
+7	865	1682597972121944680	CMakeFiles/zadanieStaz3-ut.dir/functions.cpp.o	5089c885a2c2226a
+7	3003	1682598055907666540	CMakeFiles/zadanieStaz3-ut.dir/tests.cpp.o	7cb68868be4764f4
+3003	3533	1682598056451926559	zadanieStaz3-ut	46797f5dbdd6db0d
+3003	3533	1682598056451926559	zadanieStaz3-ut[1]_tests.cmake	46797f5dbdd6db0d
+3003	3533	1682598056451926559	/Users/macbook/Desktop/programowanie/zadanieStaz3/cmake-build-debug/zadanieStaz3-ut[1]_tests.cmake	46797f5dbdd6db0d
